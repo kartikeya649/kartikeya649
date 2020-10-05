@@ -1,7 +1,7 @@
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟olks <img src="https://raw.githubusercontent.com/meghasharma123/meghasharma123/main/gifs/Hi.gif" width="30px"></h2>
 </div>
-
+<link rel="stylesheet" href="https://github.com/kartikeya649/kartikeya649/blob/main/all.css">
 <div align="center" width="50">
 
 
@@ -31,6 +31,9 @@ or <a href="mailto:kartikeyasinghs74@gmail.com"><b>email</b></a> me
 </br>
 
 <i>Contact ME</i>
+<a href="http://www.facebook.com" aria-label="FaceBook"><i class="fab fa-facebook"></i></a>
+<a href="http://www.linkedin.com" aria-label="LinkeDin"><i class="fab fa-linkedin"></i></a>
+<a href="http://twitter.com" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
 
 <a href="https://www.linkedin.com/in/kartikeya-6bb176199/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/___kartikeya___/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
