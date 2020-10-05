@@ -1,10 +1,9 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/meghasharma123/meghasharma123/main/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟olks <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/meghasharma123/meghasharma123/main/gifs/Hi.gif" width="30px"></h2>
 </div>
 
 <div align="center" width="50">
 
-<img src="https://res.cloudinary.com/meghacloud/image/upload/v1601813053/gif/QBHPVKpu_owaael.gif" alt="Welcome!" width="1024"/>
 
 </div>
 
@@ -12,14 +11,14 @@
 
 You have finally discovered my Github profile. <br>
 - 🔭 I’m currently studying at Hemwati Nandan Bahuguna Gharwal University Uttrakhand
-- 🌱 I’m currently Preparing for Gate 2021
+- 🌱 I’m currently Preparing for creating my own bussiness
 - 💬 Ask me about Anything related to motivation
-- 📫 How to reach me: by my mail or insta or fb
-- ⚡ Fun fact: I love My health and fitness... ;)
+- 📫 How to reach me: Insta,FB,Linkdin
+- ⚡ Fun fact: I am very Lazy programmer ;)
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/meghasharma123/MeghaSharma/issues/new"><b>here</b></a><br>
-or <a href="mailto:meghasharma2822000@gmail.com"><b>email</b></a> me
+Ask me anything <a href="https://github.com/kartikeya649"><b>here</b></a><br>
+or <a href="mailto:kartikeyasinghs74@gmail.com"><b>email</b></a> me
 
 <i>Happy Coding!</i> 😊
 
