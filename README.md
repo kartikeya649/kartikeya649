@@ -9,7 +9,7 @@
 
 <div align="center">
 
-You have finally discovered my Github profile. <br>
+You have finally Find Me. <br>
 - 🔭 I’m currently studying at Hemwati Nandan Bahuguna Gharwal University Uttrakhand
 - 🌱 I’m currently Preparing for creating my own bussiness
 - 💬 Ask me about Anything related to motivation
