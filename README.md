@@ -12,9 +12,9 @@
 You have finally Find Me. <br>
 - 🔭 I’m currently studying at Hemwati Nandan Bahuguna Gharwal University Uttrakhand
 - 🌱 I’m currently Preparing for creating my own bussiness
-- 💬 Ask me about Anything related to motivation
+- 💬 Ask me about Data Science
 - 📫 How to reach me: Insta,FB,Linkdin
-- ⚡ Fun fact: I am very Lazy programmer ;)
+- ⚡ Fun fact: I am very Lazy programmer.
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/kartikeya649"><b>here</b></a><br>
