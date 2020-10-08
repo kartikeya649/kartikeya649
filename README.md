@@ -27,9 +27,7 @@ or <a href="mailto:kartikeyasinghs74@gmail.com"><b>email</b></a> me
 <div align="center">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikeya649&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Kartikeya's Github Stats">
-
 </br>
-
 <i>Contact ME</i>
 
 <a href="https://www.linkedin.com/in/kartikeya-6bb176199/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
