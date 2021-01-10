@@ -11,7 +11,7 @@
 
 You have finally Find Me. <br>
 - 🔭 I’m currently studying at Hemwati Nandan Bahuguna Gharwal University Uttrakhand
-- 🌱 I’m currently Preparing for creating my own bussiness
+- 🌱 I’m currently Preparing for my Primary Language
 - 💬 Ask me about Data Science
 - 📫 How to reach me: Insta,FB,Linkdin
 - ⚡ Fun fact: I am very Lazy programmer.
